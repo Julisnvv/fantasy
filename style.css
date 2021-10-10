@@ -1,0 +1,42 @@
+body{
+ 	 	font-family: courier new, monospace;
+ }
+
+ .container_nachalo{
+	background: url(img/beg1.jpg) center no-repeat;
+ 	font-family: courier new, monospace;
+ 	width: 120%;
+height: 1000px;  
+ -webkit-background-size:cover ;
+background-size:cover;
+display: flex;
+flex-direction: column;
+justify-content: end;
+align-items: center;
+}
+
+.title {
+	color: white;
+	font-size: 64px;
+	text-align: center;
+	font-family: courier new, monospace;
+height: 13em;
+    position: relative
+}
+
+
+.container{
+
+	color: white;
+	background-color: #272F30;
+font-size: 24px;
+text-align: center;
+}
+
+.syzhet{
+	color: white;
+	font-size: 24px;
+text-align: center;
+text-decoration: none;
+}
+

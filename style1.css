@@ -1,0 +1,28 @@
+body{
+ 	 	font-family: courier new, monospace;
+        background-color: #272F30;
+ }
+
+ .container{
+    color: white;
+    background-color: #272F30;
+font-size: 22px;
+text-align: center;
+}
+
+ .title {
+    color: white;
+    font-size: 57px;
+    text-align: center;
+    font-family: courier new, monospace;
+    position: relative
+}
+
+
+.film{
+    color: white;
+    font-size: 22px;
+text-align: center;
+text-decoration: none;
+}
+
